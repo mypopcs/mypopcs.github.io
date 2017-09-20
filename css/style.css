@@ -467,9 +467,19 @@ a:hover {
 #wrap .news .content .join-cont {
   margin-top: 10px;
 }
+#wrap .news .content .join-cont .joinbg {
+  margin-bottom: 40px;
+  width: 940px;
+  height: 300px;
+  line-height: 1000px;
+  background-image: url(../images/join.png);
+  background-size: 940px;
+  background-position: 0 -80px;
+  overflow: hidden;
+}
 #wrap .news .content .join-cont i {
-  color: #9c835c;
-  font-size: 30px;
+  color: #de442c;
+  font-size: 40px;
 }
 #wrap .news .content .join-cont i b {
   margin-left: 10px;
